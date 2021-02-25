@@ -1,5 +1,13 @@
-### Hi there 👋
+![banner](https://github.com/NATA-GRECU/NATA-GRECu/blob/main/Nat%C3%A3%20Grecu.png)
 
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![vss](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+# SOCIAL
+<p align="center">
+  <h4>LinkedIn:</h4>
+  <a href="www.linkedin.com/in/natã-grecu"><img src="linkedinlogo.png" alt="LinkedIn" width = "50"></a>
+</p>
 <!--
 **NATA-GRECU/NATA-GRECu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
