@@ -4,10 +4,9 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 # SOCIAL
-<p align="center">
-  <h4>LinkedIn:</h4>
-  <a href="www.linkedin.com/in/natã-grecu"><img src="linkedinlogo.png" alt="LinkedIn" width = "50"></a>
-</p>
+
+* Linkedin - https://www.linkedin.com/in/natã-grecu
+
 <!--
 **NATA-GRECU/NATA-GRECu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
