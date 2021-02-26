@@ -1,9 +1,9 @@
 <img src="https://github.com/NATA-GRECU/NATA-GRECu/blob/main/Nat%C3%A3%20Grecu.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
-## Sobre mim :smile:
-Olá meu nome é Natã, sou desenvolvedor <strong>Java Full Stack</strong> Estou disponível para trabalho, caso precise contratar meu serviço entre em contato.
+## About me :smile:
+Hi my name is Natã, I'm  <strong>Java Full Stack</strong> developer. I am available to work, if you need hire my services contact me.
 
-## Tecnologias :computer:
+## Technologies and Tools :computer:
 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![vss](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
