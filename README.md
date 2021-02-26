@@ -10,8 +10,8 @@ Olá meu nome é Natã, sou desenvolvedor <strong>Java Full Stack</strong> Estou
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Social
-<a href=" https://www.linkedin.com/in/natã-grecu" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<a href="https://www.linkedin.com/in/natã-grecu" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode"/></a>
   
 <!--
 **NATA-GRECU/NATA-GRECu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
