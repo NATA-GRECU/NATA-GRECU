@@ -10,12 +10,14 @@ Hi my name is Natã, I'm  <strong>Java Full Stack</strong> developer. I am avail
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<p align="center">
+<div align="center">
  
-![Natã GitHub stats](https://github-readme-stats.vercel.app/api?username=NATA-GRECU&count_private=true&show_icons=true&theme=vision-friendly-dark)
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NATA-GRECU&theme=blue-green"/>	
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NATA-GRECU&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NATA-GRECU&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=blue-green" />
+
+</div>
 
 ### Social:
 <a href="https://www.linkedin.com/in/natã-grecu" alt="Linkedin">
