@@ -1,18 +1,32 @@
-<img src="https://github.com/NATA-GRECU/NATA-GRECu/blob/main/Nat%C3%A3%20Grecu.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
+<img src="https://github.com/NATA-GRECU/NATA-GRECu/blob/main/Nat%C3%A3%20Grecu.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Background Natã">
 
 ## About me :smile:
-Hi my name is Natã, I'm  <strong>Java Full Stack</strong> developer. I am available to work, if you need hire my services contact me.
+Hi my name is Natã, I'm  <strong>Java Full Stack</strong> developer. I am available to work, if you need hire my services, contact me.
 
 ## Technologies and Tools :computer:
 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
  ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![vss](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Social
+
+<p align="center">
+ 
+![Natã GitHub stats](https://github-readme-stats.vercel.app/api?username=NATA-GRECU&count_private=true&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NATA-GRECU&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+### Social:
 <a href="https://www.linkedin.com/in/natã-grecu" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode"/></a>
   
+  <br>
+  <br>
+  <br>
+  
+  
+  Thanks for the visit!
 <!--
 **NATA-GRECU/NATA-GRECu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
